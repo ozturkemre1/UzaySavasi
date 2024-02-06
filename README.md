@@ -1,7 +1,7 @@
 # UzaySavasi
 Game for Windows &amp; Mac &amp; Linux (PC)
 
-# Galaxian Benzeri Oyun
+# Çocukluğumuza gidiyoruz
 
 Merhaba! Bu repo, Unity ve C# kullanılarak geliştirilmiş nostaljik bir oyun projesini içerir. Oyun, çocukluğumuzun klasik oyunlarından esinlenilerek tasarlanmış, hızlı tempolu ve eğlenceli bir arcade deneyimidir.
 
