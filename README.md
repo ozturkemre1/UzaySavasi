@@ -1,4 +1,4 @@
-# UzaySavasi
+# Space War - Uzay Savaşı
 Game for Windows &amp; Mac &amp; Linux (PC)
 
 # Journey to Our Childhood
