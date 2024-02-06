@@ -1,38 +1,34 @@
 # UzaySavasi
 Game for Windows &amp; Mac &amp; Linux (PC)
 
-# Çocukluğumuza gidiyoruz
+# Journey to Our Childhood
 
-Merhaba! Bu repo, Unity ve C# kullanılarak geliştirilmiş nostaljik bir oyun projesini içerir. Oyun, çocukluğumuzun klasik oyunlarından esinlenilerek tasarlanmış, hızlı tempolu ve eğlenceli bir arcade deneyimidir.
+Hello! This repository contains a nostalgic game project developed using Unity and C#. The game is inspired by classic games from our childhood, offering a fast-paced and enjoyable arcade experience.
 
-## Oyun Özellikleri
+## Game Features
 
-- **Retro Tasarım:** Oyun, Galaxian gibi klasik oyunlardan ilham alarak tasarlanmıştır.
-- **Unity ve C# İle Geliştirildi:** Güçlü Unity oyun motoru ve C# programlama dili kullanılarak oluşturulmuştur.
-- **Eğlenceli Oyun Mekaniği:** Hedefleri vur, puanları topla ve heyecan verici bir oyun deneyiminin keyfini çıkar!
+- **Retro Design:** The game is designed with inspiration from classic games like Galaxian.
+- **Developed with Unity and C#:** Created using the powerful Unity game engine and C# programming language.
+- **Fun Gameplay Mechanics:** Shoot targets, collect points, and enjoy an exciting gaming experience!
 
-## Nasıl Deneyimleyebilirim?
+## How to Experience the Game?
 
-Oyunu denemek için aşağıdaki adımları takip edebilirsiniz:
+To try out the game, follow these steps:
 
-1. Repo'yu bilgisayarınıza klonlayın.
+1. Clone the repository to your computer.
    git clone https://github.com/ozturkemre1/UzaySavasi.git
-2. Unity'yi açın ve projeyi yükleyin.
-3. Oyunu başlatın ve eğlenceye başlayın!
+2. Open Unity and load the project.
+3. Start the game and dive into the fun!
 
-## Ekran Görüntüleri
+## Screenshots
 
 ![Giriş](https://github.com/ozturkemre1/UzaySavasi/assets/128362996/12e02e9e-3ead-477e-b01a-028bef65c9c5)
 ![Gelişme](https://github.com/ozturkemre1/UzaySavasi/assets/128362996/8b91ad69-148e-40dc-9e3f-a88d083bd062)
 ![Sonuç](https://github.com/ozturkemre1/UzaySavasi/assets/128362996/2a05e416-deff-4b61-bd1b-14cac219d96f)
 
-## Katkıda Bulunma
-Eğer projeye katkıda bulunmak istiyorsanız, lütfen forklayın ve geliştirmelerinizi önerilerle birlikte bize gönderin. Katkılarınızı bekliyoruz!
+## Contributing
+If you'd like to contribute to the project, please fork it and submit your improvements along with suggestions. Your contributions are welcome!
 
-## İletişim
+## Contact
 LinkedIn: (https://www.linkedin.com/in/ozturkemre1/)
-Keyifli oyunlar! 🎮
-
-
-
-
+Enjoy the game! 🎮
